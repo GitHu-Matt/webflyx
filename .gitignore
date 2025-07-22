@@ -1,0 +1,5 @@
+# Ignore the "secure" directory
+secure/
+
+# As explained earlier ignore files that dont need to be tracked (e.g node_modules)
+node_modules/
